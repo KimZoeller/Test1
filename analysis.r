@@ -6,3 +6,5 @@ summary(x)
 mean(x)
 
 plot(x)
+
+My name is PATRICK 
